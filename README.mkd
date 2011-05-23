@@ -6,6 +6,7 @@ Some nginx tools.
 * This tool to generate/manage your htpasswd files.
 * Usage:
 ./htpasswd.py -c -b /opt/etc/nginx/.htpasswd user password
+
 ## nginx vhost
 * This generates new vhosts in path /etc/nginx/sites-available and enables them
 * Usage:
