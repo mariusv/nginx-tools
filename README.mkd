@@ -10,4 +10,4 @@ Some nginx tools.
 ## nginx vhost
 * This generates new vhosts in path /etc/nginx/sites-available and enables them
 * Usage:
-new_nginx.sh site.com
+./new_nginx.sh site.com
